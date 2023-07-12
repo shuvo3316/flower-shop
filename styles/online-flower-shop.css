@@ -277,6 +277,7 @@ font-size: 40px;
     height: 449px;
     margin-left: 150px;
     margin-right: 150px;
+    border-radius: 8px;
 
     
 }
@@ -307,4 +308,30 @@ margin-top: 100px;
     color: rgba(255, 255, 255, 0.40);
     text-align: center;
     font-size: 16px;
+}
+.offer-flowers{
+    display: flex;
+    justify-content: space-around;
+   
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 8px;
+    text-align: center;
+    
+
+}
+.offer-details{
+    text-align: center;
+font-size: 30px;
+padding: 20px;
+}
+
+
+.offer-img{
+    width: 230px;
+}
+.offers{
+    background-color: #8ee7e9;
+    margin-left: 100px;
+    margin-right: 100px;
 }
